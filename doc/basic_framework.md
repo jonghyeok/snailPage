@@ -6,8 +6,10 @@ Basic framework
  - http://foundation.zurb.com/
  
 # 2. Javascript Framework
-## 2.1 Jquery
+## 2.1 jQuery
  - https://jquery.com/
+## 2.2 Vue
+ - https://vuejs.org/
   
 # 3. Analytics Framework
 ## 3.1 Google Analytics
